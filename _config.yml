@@ -1,0 +1,12 @@
+title: Valentina Ramírez, CFA
+email: valentina.ramirez.m@protonmail.com
+description: Finance and climate professional helping financial institutions turn climate y sustainability risks into resilient capital allocation.
+github_username: valentina-rm
+linkedin_username: https://www.linkedin.com/in/valentinaramirezmontoya/
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
